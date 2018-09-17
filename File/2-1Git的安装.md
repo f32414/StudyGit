@@ -43,3 +43,9 @@ Mac请参照官方文档。
 #### 参考资料
 
 [Git-起步-安装](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
+
+
+
+[返回目录](https://github.com/f32414/StudyGit)											[下一章节](
+​      StudyGit/File/2-2-1Windows工具的选择.md
+​    )

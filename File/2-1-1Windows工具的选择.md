@@ -1,0 +1,27 @@
+# 从0开始学Git-安装篇
+
+## Windows工具的选择
+
+​	之所以要纠结Windows，是因为Git为我们提供了三种不同的工具。
+
+GitBash
+
+​	基本命令和Linux一致
+
+GitCMD
+
+​	基本命令和DOS一致
+
+GitGUI
+
+​	图形化操作
+
+> 个人建议使用GitBash，可以充分熟悉Linux终端命令
+
+非常不推荐使用GitGUI，感觉操作起来并不是特别方便，新版本也没有中文版本。
+
+
+
+[返回目录](https://github.com/f32414/StudyGit)											[下一章节](
+​      StudyGit/File/2-2必须的配置.md
+​    )
