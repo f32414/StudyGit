@@ -46,4 +46,4 @@ Mac请参照官方文档。
 
 
 
-[返回目录](https://github.com/f32414/StudyGit)											[下一章节](StudyGit/File/2-2-1Windows工具的选择.md)
+[上一章节](1-1版本控制简单介绍.md)											[下一章节](2-2-1Windows工具的选择.md)

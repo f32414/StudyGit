@@ -22,4 +22,4 @@ GitGUI
 
 
 
-[返回目录](https://github.com/f32414/StudyGit)											[下一章节](StudyGit/File/2-2必须的配置.md)
+[上一章节](2-1Git的安装.md)											[下一章节](2-2必须的配置.md)
